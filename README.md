@@ -21,7 +21,7 @@ Contains both categorical and numerical fields
 
 Highly imbalanced with ~2.5% fraud rate
 
-**Workflow Overview**\
+**Workflow Overview**
 1. Data Exploration
 Initial profiling and visualization of transaction distributions (amounts, locations, types) to identify patterns and anomalies.
 
