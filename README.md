@@ -1,4 +1,4 @@
-# CreditCardFraud
+# Credit Card Fraud Detection
 Developing a High-Precision Machine Learning Model to Detect Fraud and Maximize Financial Savings
 
 This repository contains the full pipeline for building a high-precision fraud detection model on a dataset of 98,000+ credit card transactions from 2010. The project focuses on data-driven feature engineering and machine learning modeling to maximize financial savings by accurately flagging fraudulent transactions.
