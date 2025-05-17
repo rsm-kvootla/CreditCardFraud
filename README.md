@@ -77,7 +77,7 @@ Neural Network	0.646\
 LightGBM	0.589\
 CatBoost	0.614\
 Random Forest	0.576\
-Decision Tree	0.549\
+Decision Tree	0.549
 
 **Data**\
 data - card transactions_2025
